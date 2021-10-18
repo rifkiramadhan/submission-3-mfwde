@@ -1,0 +1,45 @@
+/*
+ * header
+ */
+.jumbotron {
+  display: flex;
+  flex-direction: column;
+  min-height: 600px;
+  width: 100%;
+  text-align: center;
+  background-color: var(--black-color);
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+  padding: 0 10%;
+}
+
+.jumbotron__text {
+  align-self: center;
+  max-width: 600px;
+  margin: auto 0;
+  padding-bottom: 3em;
+}
+
+.jumbotron__text img {
+  width: 100px;
+  border-radius: 50px;
+}
+
+.jumbotron__title {
+  color: var(--white-color);
+  font-weight: 500;
+  font-size: xx-large;
+  font-family: 'Righteous', cursive;
+}
+
+.jumbotron__subtitle {
+  color: var(--white-color);
+  margin: 16px;
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  word-spacing: 2px;
+  line-height: 1.36em;
+  font-family: 'Raleway', sans-serif;
+}

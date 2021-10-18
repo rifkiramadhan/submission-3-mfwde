@@ -1,0 +1,16 @@
+/*
+ * footer
+ */
+
+footer {
+    padding: 1em;
+    width: 100%;
+    background-color: var(--gray-color);
+}
+  
+footer p {
+    font-weight: bold;
+    text-align: center;
+    color: var(--white-color);
+    font-family: 'Raleway', sans-serif;
+}

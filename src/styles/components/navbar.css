@@ -1,0 +1,79 @@
+/* 
+ * Navbar
+ */
+
+nav {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.3em;
+    height: 75px;
+}
+  
+.nav-list {
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    flex-wrap: wrap;
+    transition: ease;
+    font-family: 'Raleway', sans-serif;
+}
+  
+.nav-item {
+    box-sizing: border-box;
+    line-height: 24px;
+}
+  
+.nav-item a {
+    padding: 0.7rem;
+    display: inline-block;
+    font-size: 1.3em;
+    text-decoration: none;
+    color: var(--white-color);
+}
+  
+.nav-item button {
+    padding: 0.9rem;
+    background-color: transparent;
+    border: 0 solid transparent;
+    color: var(--white-color);
+    cursor: pointer;
+    font-size: 1.3;
+    vertical-align: middle;
+}
+  
+.nav-item a:hover {
+    text-decoration: none;
+    color: var(--yellow-color);
+    cursor: pointer;
+}
+  
+.nav-item button:hover {
+    text-decoration: none;
+    color: var(--gray-color);
+    cursor: pointer;
+}
+
+.menu {
+    font-size: 25px;
+    display: none;
+    width: 44px;
+    height: 44px;
+    color: var(--white-color);
+}
+  
+.menu:hover {
+    cursor: pointer;
+}
+  
+.logo-resto {
+    font-size: x-large;
+    font-weight: bold;
+    padding: 0.4em 0;
+    text-decoration: none;
+    font-family: 'Sigmar One', cursive;
+    color: var(--white-color);
+}

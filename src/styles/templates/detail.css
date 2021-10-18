@@ -1,0 +1,357 @@
+/* 
+ * Detail
+ */
+
+ .detail {
+  display: grid;
+  grid-gap: 1.545em;
+  font-size: 1em;
+  margin-top: 1em;
+}
+
+.detail-img {
+  width: 100%;
+  height: 100%;
+  max-width: 500px;
+  object-fit: cover;
+  border-radius: 0 15px 0 15px;
+}
+
+.detail-name-address-rating {
+  display: inline-block;
+  font-family: 'Righteous', cursive;
+  font-weight: bold;
+}
+
+.icon-primary {
+  color: var(--dark-color);
+}
+
+.detail h3 {
+  padding: 1em 0 0 0;
+  font-weight: bold;
+  text-align: center;
+  font-size: 24px;
+  font-family: fantasy;
+}
+
+.detail-desc {
+  text-align: justify;
+  color: var(--black-color);
+  margin-bottom: 0.5em;
+  list-style: none;
+  text-indent: 25px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.detail-card-info {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  flex-direction: column;
+  border-radius: 0 15px 0 15px;
+  background-color: var(--white-color);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
+}
+
+.detail-food li {
+  padding: 0.5em 0;
+  display: block;
+  text-decoration: none;
+  background-color: var(--white-color);
+  border-width: 0 0 0.5px;
+}
+
+.detail-drink {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-content: center;
+}
+
+.detail-drink h4 {
+  color: var(--black-color);
+}
+
+.detail-drink li {
+  padding: 0.5em 0;
+  display: block;
+  text-decoration: none;
+  background-color: var(--white-color);
+  border-width: 0 0 0.5px;
+}
+
+.detail-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.detail-info li {
+  position: relative;
+  display: block;
+  padding: 0.6em;
+  color: var(--font-color);
+  text-decoration: none;
+  background-color: var(--white-color);
+  list-style: none;
+}
+
+.detail-info li .name {
+  font-family: 'Righteous', cursive;
+}
+
+.detail-info li i {
+  color: var(--black-color);
+}
+
+.detail-info li .fa-store {
+  color: var(--dark-color);
+}
+
+.detail-info li .fa-map-marker-alt {
+  color: var(--dark-color);
+}
+
+.detail-info li .fa-star {
+  color: var(--yellow-color);
+}
+
+/*  
+ * Detail Review
+ */
+
+.detail-review {
+  max-width: 100%;
+  display: grid;
+  gap: 20px;
+  font-size: 12px;
+  text-align: center;
+  flex-direction: column;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.detail-review-list {
+  color: var(--font-color);
+  background-color: var(--white-color);
+  margin-bottom: 1.5em;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.5s ease;  border-radius: 18px;
+  padding: 1em 1em;
+}
+
+.detail-review-list img {
+  width: 55px;
+  height: 55px;
+  border-radius: 50px;
+}
+
+.detail-review-list:last-child {
+  margin-bottom: 0;
+}
+
+.review-name {
+  font-weight: bold;
+  font-size: 16px;
+  display: grid;
+  align-items: center;
+  color: var(--black-color);
+  font-family: 'Raleway', sans-serif;
+}
+
+.review-date {
+  font-size: 0.8em;
+  font-weight: lighter;
+  align-items: center;
+  color: var(--black-color);
+}
+
+.review-body {
+  padding: 1em;
+  text-align: center;
+}
+
+/* 
+ * Blockquote
+ */
+
+ blockquote {
+	margin: 0;
+	padding: 40px 70px;
+  border-radius: 8px;
+  width: 100%;
+  margin-top: 5px;
+	background: var(--gray-color);
+  color: var(--white-color);	
+	position: relative;
+  font-style: italic;
+  overflow: auto;
+}
+
+blockquote::before,
+blockquote::after {
+	font-size: 350%;
+	font-family: arial;
+	display: block;
+	position: absolute;
+}
+
+blockquote::before {
+	content: open-quote;
+	left: 30px;
+  line-height: 40px;
+}
+
+blockquote::after {
+	content: close-quote;
+	right: 30px;
+  line-height: 30px;
+}
+
+/*  
+ * Card Menu
+ */
+
+.cards-menu {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.card-menu {
+  padding: 15px;
+  text-align: start;
+  border-radius: 15px;
+  color: var(--text-color);
+  background-color: var(--white-color);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
+}
+
+.cards-menu h4 {
+  font-weight: bold;
+  font-size: 1.37em;
+  padding: 1em;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  color: var(--black-color);
+}
+
+.card-menu ul li {
+  list-style: none;
+  color: var(--black-color);
+  font-family: 'Raleway', sans-serif;
+}
+
+.card-menu h4 {
+  text-align: center;
+}
+
+.card-form-detail {
+  padding: 15px;
+  text-align: start;
+  color: var(--white-color);
+}
+
+
+.category {
+  padding: 0.3em 1em;
+  color: var(--white-color);
+  background-color: var(--dark-color);
+  margin-right: 2px;
+  border-radius: 50px;
+}
+
+/*  
+ * Form
+ */
+ 
+form {
+  margin: 2em 0;
+  padding: 1.5em;
+  border-radius: 8px;
+  background-color: var(--white-color);
+}
+
+.form-control {
+  display: inline-block;
+  width: 100%;
+  min-height: 1em;
+  padding: 0.3em;
+  font-size: 1em;
+  line-height: 50px;
+  border-radius: 18px;
+  font-weight: normal;
+  color: var(--black-color);
+  background-color: var(--white-color);
+  appearance: none;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid var(--black-color);
+}
+
+.form-control:hover {
+  border-bottom: 1px solid var(--black-color);
+}
+
+.form-label {
+  padding-bottom: 10px;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 16px;
+  color: var(--black-color);
+  font-family: 'Raleway', sans-serif;
+}
+
+.form-review {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  flex-direction: column;
+  border-radius: 0 15px 0 15px;
+  background-color: var(--white-color);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
+}
+
+.form-review img { 
+  max-width: 100%;
+  height: 100%;
+}
+
+.input-form-review {
+  margin-bottom: 1.3em;
+  margin-top: 0.5em;
+}
+
+/*  
+ * Like Button
+ */
+
+.like-button {
+  font-size: 18px;
+  background-color: var(--dark-color);
+  color: var(--white-color);
+  border: 0;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  bottom: 16px;
+  right: 16px;
+  z-index: 1;
+}
+
+.like-button:hover {
+  background-color: var(--black-color);
+}
+
+.category:hover,
+.detail-food li:hover,
+.detail-drink li:hover,
+.detail-review-list:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
+}

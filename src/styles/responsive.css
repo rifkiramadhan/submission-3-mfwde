@@ -1,0 +1,107 @@
+/* 
+ * Responsive Mobile
+ */
+
+/* Extra small devices ( <= 320px ) */
+@media only screen and (max-width: 340px) {
+  nav {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .logo-resto,
+  .jumbotron__title {
+    font-size: 1.5em;
+  }
+
+  .nav-item a,
+  .jumbotron__subtitle,
+  .button-active {
+    font-size: 1em;
+  }
+}
+
+/* Smaller devices ( <= 600px ) */
+@media only screen and (max-width: 600px) {
+  .menu {
+    display: block;
+    background-color: transparent;
+    border: 1px solid transparent;
+    text-align: center;
+  }
+
+  .menu-mobile {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .menu span {
+    text-align: center;
+  }
+
+  nav {
+    display: flex;
+    flex-direction: column;
+    padding: 3em 0;
+    height: 175px;
+    flex-wrap: wrap;
+  }
+
+  .nav-list {
+    display: none;
+  }
+
+  .nav-open {
+    display: flex;
+  }
+
+  .jumbotron {
+    min-height: 500px;
+    background: var(--jumbotron-color), url('./images/jumbotron-600.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+}
+
+/* Small devices ( >= 600px ) */
+@media only screen and (min-width: 600px) {
+  .main-content__title {
+    margin-bottom: 1em;
+  }
+
+  #explore-restaurant,
+  #fav-resto {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 1.545em;
+    grid-row-gap: 1.545em;
+  }
+}
+
+/* Medium devices ( >= 768px ) */
+@media only screen and (min-width: 768px) {
+}
+
+/* Large devices ( >= 992px ) */
+@media only screen and (min-width: 992px) {
+  #explore-restaurant,
+  #fav-resto {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .jumbotron {
+    background: var(--jumbotron-color), url('./images/jumbotron-1200.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+}
+
+/* Extra large devices ( >= 1200px ) */
+@media only screen and (min-width: 1200px) {
+  main {
+    max-width: 1200px;
+  }
+}
