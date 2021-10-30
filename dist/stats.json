@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "a0ec2c215053d230a919",
-  "time": 25737,
-  "builtAt": 1634573910164,
+  "hash": "94d9cbee0ced419a80b7",
+  "time": 16465,
+  "builtAt": 1635584097758,
   "publicPath": "",
   "outputPath": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\dist",
   "assetsByChunkName": {
@@ -238,7 +238,7 @@
     },
     {
       "name": "main~29d6ecf2.bundle.js",
-      "size": 46800,
+      "size": 46775,
       "chunks": [
         4
       ],
@@ -2148,14 +2148,14 @@
       "rendered": true,
       "initial": true,
       "entry": false,
-      "size": 69762,
+      "size": 69737,
       "names": [
         "main~29d6ecf2"
       ],
       "files": [
         "main~29d6ecf2.bundle.js"
       ],
-      "hash": "4e15ff7447c13a10ac7c",
+      "hash": "d1255e136b98b4d94b94",
       "siblings": [
         0,
         1,
@@ -3037,9 +3037,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\src\\scripts\\views\\pages\\home.js",
+              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\src\\scripts\\views\\pages\\favorite.js",
               "issuerId": null,
-              "issuerName": "./src/scripts/views/pages/home.js",
+              "issuerName": "./src/scripts/views/pages/favorite.js",
               "issuerPath": [
                 {
                   "id": 13,
@@ -3058,8 +3058,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\src\\scripts\\views\\pages\\home.js",
-                  "name": "./src/scripts/views/pages/home.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\src\\scripts\\views\\pages\\favorite.js",
+                  "name": "./src/scripts/views/pages/favorite.js"
                 }
               ],
               "failed": false,
@@ -3881,7 +3881,7 @@
           "name": "./node_modules/css-loader/dist/cjs.js??ref--4-1!./src/styles/templates/root.css",
           "index": 14,
           "index2": 12,
-          "size": 3395,
+          "size": 3370,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -6527,9 +6527,9 @@
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\src\\scripts\\views\\pages\\home.js",
+          "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\src\\scripts\\views\\pages\\favorite.js",
           "issuerId": null,
-          "issuerName": "./src/scripts/views/pages/home.js",
+          "issuerName": "./src/scripts/views/pages/favorite.js",
           "issuerPath": [
             {
               "id": 13,
@@ -6548,8 +6548,8 @@
             },
             {
               "id": null,
-              "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\src\\scripts\\views\\pages\\home.js",
-              "name": "./src/scripts/views/pages/home.js"
+              "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\src\\scripts\\views\\pages\\favorite.js",
+              "name": "./src/scripts/views/pages/favorite.js"
             }
           ],
           "failed": false,
@@ -7786,7 +7786,7 @@
       "name": "./node_modules/css-loader/dist/cjs.js??ref--4-1!./src/styles/templates/root.css",
       "index": 14,
       "index2": 12,
-      "size": 3395,
+      "size": 3370,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -13682,9 +13682,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\cleanupOutdatedCaches.js",
+                  "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\registerQuotaErrorCallback.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js",
+                  "issuerName": "./node_modules/workbox-core/registerQuotaErrorCallback.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -13693,18 +13693,18 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                      "name": "./node_modules/workbox-precaching/index.mjs"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                      "name": "./node_modules/workbox-core/index.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                      "name": "./node_modules/workbox-precaching/index.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                      "name": "./node_modules/workbox-core/index.js"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\cleanupOutdatedCaches.js",
-                      "name": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\registerQuotaErrorCallback.js",
+                      "name": "./node_modules/workbox-core/registerQuotaErrorCallback.js"
                     }
                   ],
                   "failed": false,
@@ -13759,18 +13759,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\utils\\printCleanupDetails.js",
-                      "module": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
-                      "moduleName": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
+                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\utils\\printInstallDetails.js",
+                      "module": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
+                      "moduleName": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/logger.js",
                       "loc": "14:0-57"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\utils\\printInstallDetails.js",
-                      "module": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
-                      "moduleName": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
+                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\utils\\printCleanupDetails.js",
+                      "module": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
+                      "moduleName": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/logger.js",
                       "loc": "14:0-57"
@@ -13948,15 +13948,6 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-routing\\Router.js",
-                      "module": "./node_modules/workbox-routing/Router.js",
-                      "moduleName": "./node_modules/workbox-routing/Router.js",
-                      "type": "harmony side effect evaluation",
-                      "userRequest": "workbox-core/_private/logger.js",
-                      "loc": "41:0-57"
-                    },
-                    {
-                      "moduleId": null,
                       "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-strategies\\CacheFirst.js",
                       "module": "./node_modules/workbox-strategies/CacheFirst.js",
                       "moduleName": "./node_modules/workbox-strategies/CacheFirst.js",
@@ -13978,6 +13969,15 @@
                       "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
                       "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                       "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                      "type": "harmony side effect evaluation",
+                      "userRequest": "workbox-core/_private/logger.js",
+                      "loc": "41:0-57"
+                    },
+                    {
+                      "moduleId": null,
+                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-routing\\Router.js",
+                      "module": "./node_modules/workbox-routing/Router.js",
+                      "moduleName": "./node_modules/workbox-routing/Router.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/logger.js",
                       "loc": "41:0-57"
@@ -14157,9 +14157,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
+                  "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-precaching/PrecacheController.js",
+                  "issuerName": "./node_modules/workbox-core/_private.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -14168,18 +14168,18 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                      "name": "./node_modules/workbox-precaching/index.mjs"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                      "name": "./node_modules/workbox-core/index.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                      "name": "./node_modules/workbox-precaching/index.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                      "name": "./node_modules/workbox-core/index.js"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
-                      "name": "./node_modules/workbox-precaching/PrecacheController.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
+                      "name": "./node_modules/workbox-core/_private.js"
                     }
                   ],
                   "failed": false,
@@ -14549,18 +14549,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheStrategy.js",
-                      "module": "./node_modules/workbox-precaching/PrecacheStrategy.js",
-                      "moduleName": "./node_modules/workbox-precaching/PrecacheStrategy.js",
+                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-expiration\\CacheExpiration.js",
+                      "module": "./node_modules/workbox-expiration/CacheExpiration.js",
+                      "moduleName": "./node_modules/workbox-expiration/CacheExpiration.js",
                       "type": "harmony import specifier",
                       "userRequest": "workbox-core/_private/WorkboxError.js",
                       "loc": "281:26-38"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-expiration\\CacheExpiration.js",
-                      "module": "./node_modules/workbox-expiration/CacheExpiration.js",
-                      "moduleName": "./node_modules/workbox-expiration/CacheExpiration.js",
+                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheStrategy.js",
+                      "module": "./node_modules/workbox-precaching/PrecacheStrategy.js",
+                      "moduleName": "./node_modules/workbox-precaching/PrecacheStrategy.js",
                       "type": "harmony import specifier",
                       "userRequest": "workbox-core/_private/WorkboxError.js",
                       "loc": "281:26-38"
@@ -14632,9 +14632,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
+                  "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\registerQuotaErrorCallback.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-precaching/PrecacheController.js",
+                  "issuerName": "./node_modules/workbox-core/registerQuotaErrorCallback.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -14643,18 +14643,18 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                      "name": "./node_modules/workbox-precaching/index.mjs"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                      "name": "./node_modules/workbox-core/index.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                      "name": "./node_modules/workbox-precaching/index.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                      "name": "./node_modules/workbox-core/index.js"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
-                      "name": "./node_modules/workbox-precaching/PrecacheController.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\registerQuotaErrorCallback.js",
+                      "name": "./node_modules/workbox-core/registerQuotaErrorCallback.js"
                     }
                   ],
                   "failed": false,
@@ -14772,18 +14772,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-routing\\Router.js",
-                      "module": "./node_modules/workbox-routing/Router.js",
-                      "moduleName": "./node_modules/workbox-routing/Router.js",
+                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-strategies\\StrategyHandler.js",
+                      "module": "./node_modules/workbox-strategies/StrategyHandler.js",
+                      "moduleName": "./node_modules/workbox-strategies/StrategyHandler.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/assert.js",
                       "loc": "38:0-57"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-strategies\\StrategyHandler.js",
-                      "module": "./node_modules/workbox-strategies/StrategyHandler.js",
-                      "moduleName": "./node_modules/workbox-strategies/StrategyHandler.js",
+                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-routing\\Router.js",
+                      "module": "./node_modules/workbox-routing/Router.js",
+                      "moduleName": "./node_modules/workbox-routing/Router.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/assert.js",
                       "loc": "38:0-57"
@@ -14932,9 +14932,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\cleanupOutdatedCaches.js",
+                  "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js",
+                  "issuerName": "./node_modules/workbox-core/_private.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -14943,18 +14943,18 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                      "name": "./node_modules/workbox-precaching/index.mjs"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                      "name": "./node_modules/workbox-core/index.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                      "name": "./node_modules/workbox-precaching/index.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                      "name": "./node_modules/workbox-core/index.js"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\cleanupOutdatedCaches.js",
-                      "name": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
+                      "name": "./node_modules/workbox-core/_private.js"
                     }
                   ],
                   "failed": false,
@@ -14964,21 +14964,21 @@
                   "reasons": [
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\cleanupOutdatedCaches.js",
-                      "module": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js",
-                      "moduleName": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js",
-                      "type": "harmony side effect evaluation",
-                      "userRequest": "workbox-core/_private/cacheNames.js",
-                      "loc": "8:0-65"
-                    },
-                    {
-                      "moduleId": null,
                       "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\cacheNames.js",
                       "module": "./node_modules/workbox-core/cacheNames.js",
                       "moduleName": "./node_modules/workbox-core/cacheNames.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "./_private/cacheNames.js",
                       "loc": "8:0-69"
+                    },
+                    {
+                      "moduleId": null,
+                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\cleanupOutdatedCaches.js",
+                      "module": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js",
+                      "moduleName": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js",
+                      "type": "harmony side effect evaluation",
+                      "userRequest": "workbox-core/_private/cacheNames.js",
+                      "loc": "8:0-65"
                     },
                     {
                       "moduleId": null,
@@ -15866,9 +15866,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheStrategy.js",
+                  "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-precaching/PrecacheStrategy.js",
+                  "issuerName": "./node_modules/workbox-core/_private.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -15877,18 +15877,18 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                      "name": "./node_modules/workbox-precaching/index.mjs"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                      "name": "./node_modules/workbox-core/index.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                      "name": "./node_modules/workbox-precaching/index.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                      "name": "./node_modules/workbox-core/index.js"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheStrategy.js",
-                      "name": "./node_modules/workbox-precaching/PrecacheStrategy.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
+                      "name": "./node_modules/workbox-core/_private.js"
                     }
                   ],
                   "failed": false,
@@ -15943,18 +15943,18 @@
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
-                      "module": "./node_modules/workbox-expiration/ExpirationPlugin.js",
-                      "moduleName": "./node_modules/workbox-expiration/ExpirationPlugin.js",
+                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-strategies\\Strategy.js",
+                      "module": "./node_modules/workbox-strategies/Strategy.js",
+                      "moduleName": "./node_modules/workbox-strategies/Strategy.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/getFriendlyURL.js",
                       "loc": "35:0-73"
                     },
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-strategies\\Strategy.js",
-                      "module": "./node_modules/workbox-strategies/Strategy.js",
-                      "moduleName": "./node_modules/workbox-strategies/Strategy.js",
+                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
+                      "module": "./node_modules/workbox-expiration/ExpirationPlugin.js",
+                      "moduleName": "./node_modules/workbox-expiration/ExpirationPlugin.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "workbox-core/_private/getFriendlyURL.js",
                       "loc": "35:0-73"
@@ -16236,9 +16236,9 @@
                   "optional": false,
                   "prefetched": false,
                   "chunks": [],
-                  "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
+                  "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
                   "issuerId": null,
-                  "issuerName": "./node_modules/workbox-precaching/PrecacheController.js",
+                  "issuerName": "./node_modules/workbox-core/_private.js",
                   "issuerPath": [
                     {
                       "id": null,
@@ -16247,18 +16247,18 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                      "name": "./node_modules/workbox-precaching/index.mjs"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                      "name": "./node_modules/workbox-core/index.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                      "name": "./node_modules/workbox-precaching/index.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                      "name": "./node_modules/workbox-core/index.js"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
-                      "name": "./node_modules/workbox-precaching/PrecacheController.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
+                      "name": "./node_modules/workbox-core/_private.js"
                     }
                   ],
                   "failed": false,
@@ -16693,9 +16693,9 @@
                   "reasons": [
                     {
                       "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\addRoute.js",
-                      "module": "./node_modules/workbox-precaching/addRoute.js",
-                      "moduleName": "./node_modules/workbox-precaching/addRoute.js",
+                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\createHandlerBoundToURL.js",
+                      "module": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
+                      "moduleName": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "./utils/getOrCreatePrecacheController.js",
                       "loc": "8:0-89"
@@ -16705,15 +16705,6 @@
                       "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\getCacheKeyForURL.js",
                       "module": "./node_modules/workbox-precaching/getCacheKeyForURL.js",
                       "moduleName": "./node_modules/workbox-precaching/getCacheKeyForURL.js",
-                      "type": "harmony side effect evaluation",
-                      "userRequest": "./utils/getOrCreatePrecacheController.js",
-                      "loc": "8:0-89"
-                    },
-                    {
-                      "moduleId": null,
-                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\createHandlerBoundToURL.js",
-                      "module": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
-                      "moduleName": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "./utils/getOrCreatePrecacheController.js",
                       "loc": "8:0-89"
@@ -16732,6 +16723,15 @@
                       "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\precache.js",
                       "module": "./node_modules/workbox-precaching/precache.js",
                       "moduleName": "./node_modules/workbox-precaching/precache.js",
+                      "type": "harmony side effect evaluation",
+                      "userRequest": "./utils/getOrCreatePrecacheController.js",
+                      "loc": "8:0-89"
+                    },
+                    {
+                      "moduleId": null,
+                      "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\addRoute.js",
+                      "module": "./node_modules/workbox-precaching/addRoute.js",
+                      "moduleName": "./node_modules/workbox-precaching/addRoute.js",
                       "type": "harmony side effect evaluation",
                       "userRequest": "./utils/getOrCreatePrecacheController.js",
                       "loc": "8:0-89"
@@ -17544,18 +17544,18 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                      "name": "./node_modules/workbox-precaching/index.mjs"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                      "name": "./node_modules/workbox-core/index.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                      "name": "./node_modules/workbox-precaching/index.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                      "name": "./node_modules/workbox-core/index.js"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
-                      "name": "./node_modules/workbox-precaching/PrecacheController.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
+                      "name": "./node_modules/workbox-core/_private.js"
                     },
                     {
                       "id": null,
@@ -17694,18 +17694,18 @@
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                      "name": "./node_modules/workbox-precaching/index.mjs"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                      "name": "./node_modules/workbox-core/index.mjs"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                      "name": "./node_modules/workbox-precaching/index.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                      "name": "./node_modules/workbox-core/index.js"
                     },
                     {
                       "id": null,
-                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
-                      "name": "./node_modules/workbox-precaching/PrecacheController.js"
+                      "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
+                      "name": "./node_modules/workbox-core/_private.js"
                     },
                     {
                       "id": null,
@@ -22359,9 +22359,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\cleanupOutdatedCaches.js",
+              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\registerQuotaErrorCallback.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js",
+              "issuerName": "./node_modules/workbox-core/registerQuotaErrorCallback.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -22370,18 +22370,18 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                  "name": "./node_modules/workbox-precaching/index.mjs"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                  "name": "./node_modules/workbox-core/index.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                  "name": "./node_modules/workbox-precaching/index.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                  "name": "./node_modules/workbox-core/index.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\cleanupOutdatedCaches.js",
-                  "name": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\registerQuotaErrorCallback.js",
+                  "name": "./node_modules/workbox-core/registerQuotaErrorCallback.js"
                 }
               ],
               "failed": false,
@@ -22436,18 +22436,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\utils\\printCleanupDetails.js",
-                  "module": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
-                  "moduleName": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
+                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\utils\\printInstallDetails.js",
+                  "module": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
+                  "moduleName": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/logger.js",
                   "loc": "14:0-57"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\utils\\printInstallDetails.js",
-                  "module": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
-                  "moduleName": "./node_modules/workbox-precaching/utils/printInstallDetails.js",
+                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\utils\\printCleanupDetails.js",
+                  "module": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
+                  "moduleName": "./node_modules/workbox-precaching/utils/printCleanupDetails.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/logger.js",
                   "loc": "14:0-57"
@@ -22625,15 +22625,6 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-routing\\Router.js",
-                  "module": "./node_modules/workbox-routing/Router.js",
-                  "moduleName": "./node_modules/workbox-routing/Router.js",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "workbox-core/_private/logger.js",
-                  "loc": "41:0-57"
-                },
-                {
-                  "moduleId": null,
                   "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-strategies\\CacheFirst.js",
                   "module": "./node_modules/workbox-strategies/CacheFirst.js",
                   "moduleName": "./node_modules/workbox-strategies/CacheFirst.js",
@@ -22655,6 +22646,15 @@
                   "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-strategies\\StaleWhileRevalidate.js",
                   "module": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
                   "moduleName": "./node_modules/workbox-strategies/StaleWhileRevalidate.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "workbox-core/_private/logger.js",
+                  "loc": "41:0-57"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-routing\\Router.js",
+                  "module": "./node_modules/workbox-routing/Router.js",
+                  "moduleName": "./node_modules/workbox-routing/Router.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/logger.js",
                   "loc": "41:0-57"
@@ -22834,9 +22834,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
+              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-precaching/PrecacheController.js",
+              "issuerName": "./node_modules/workbox-core/_private.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -22845,18 +22845,18 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                  "name": "./node_modules/workbox-precaching/index.mjs"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                  "name": "./node_modules/workbox-core/index.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                  "name": "./node_modules/workbox-precaching/index.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                  "name": "./node_modules/workbox-core/index.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
-                  "name": "./node_modules/workbox-precaching/PrecacheController.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
+                  "name": "./node_modules/workbox-core/_private.js"
                 }
               ],
               "failed": false,
@@ -23226,18 +23226,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheStrategy.js",
-                  "module": "./node_modules/workbox-precaching/PrecacheStrategy.js",
-                  "moduleName": "./node_modules/workbox-precaching/PrecacheStrategy.js",
+                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-expiration\\CacheExpiration.js",
+                  "module": "./node_modules/workbox-expiration/CacheExpiration.js",
+                  "moduleName": "./node_modules/workbox-expiration/CacheExpiration.js",
                   "type": "harmony import specifier",
                   "userRequest": "workbox-core/_private/WorkboxError.js",
                   "loc": "281:26-38"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-expiration\\CacheExpiration.js",
-                  "module": "./node_modules/workbox-expiration/CacheExpiration.js",
-                  "moduleName": "./node_modules/workbox-expiration/CacheExpiration.js",
+                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheStrategy.js",
+                  "module": "./node_modules/workbox-precaching/PrecacheStrategy.js",
+                  "moduleName": "./node_modules/workbox-precaching/PrecacheStrategy.js",
                   "type": "harmony import specifier",
                   "userRequest": "workbox-core/_private/WorkboxError.js",
                   "loc": "281:26-38"
@@ -23309,9 +23309,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
+              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\registerQuotaErrorCallback.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-precaching/PrecacheController.js",
+              "issuerName": "./node_modules/workbox-core/registerQuotaErrorCallback.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -23320,18 +23320,18 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                  "name": "./node_modules/workbox-precaching/index.mjs"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                  "name": "./node_modules/workbox-core/index.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                  "name": "./node_modules/workbox-precaching/index.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                  "name": "./node_modules/workbox-core/index.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
-                  "name": "./node_modules/workbox-precaching/PrecacheController.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\registerQuotaErrorCallback.js",
+                  "name": "./node_modules/workbox-core/registerQuotaErrorCallback.js"
                 }
               ],
               "failed": false,
@@ -23449,18 +23449,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-routing\\Router.js",
-                  "module": "./node_modules/workbox-routing/Router.js",
-                  "moduleName": "./node_modules/workbox-routing/Router.js",
+                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-strategies\\StrategyHandler.js",
+                  "module": "./node_modules/workbox-strategies/StrategyHandler.js",
+                  "moduleName": "./node_modules/workbox-strategies/StrategyHandler.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/assert.js",
                   "loc": "38:0-57"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-strategies\\StrategyHandler.js",
-                  "module": "./node_modules/workbox-strategies/StrategyHandler.js",
-                  "moduleName": "./node_modules/workbox-strategies/StrategyHandler.js",
+                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-routing\\Router.js",
+                  "module": "./node_modules/workbox-routing/Router.js",
+                  "moduleName": "./node_modules/workbox-routing/Router.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/assert.js",
                   "loc": "38:0-57"
@@ -23609,9 +23609,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\cleanupOutdatedCaches.js",
+              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js",
+              "issuerName": "./node_modules/workbox-core/_private.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -23620,18 +23620,18 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                  "name": "./node_modules/workbox-precaching/index.mjs"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                  "name": "./node_modules/workbox-core/index.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                  "name": "./node_modules/workbox-precaching/index.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                  "name": "./node_modules/workbox-core/index.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\cleanupOutdatedCaches.js",
-                  "name": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
+                  "name": "./node_modules/workbox-core/_private.js"
                 }
               ],
               "failed": false,
@@ -23641,21 +23641,21 @@
               "reasons": [
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\cleanupOutdatedCaches.js",
-                  "module": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js",
-                  "moduleName": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "workbox-core/_private/cacheNames.js",
-                  "loc": "8:0-65"
-                },
-                {
-                  "moduleId": null,
                   "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\cacheNames.js",
                   "module": "./node_modules/workbox-core/cacheNames.js",
                   "moduleName": "./node_modules/workbox-core/cacheNames.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./_private/cacheNames.js",
                   "loc": "8:0-69"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\cleanupOutdatedCaches.js",
+                  "module": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js",
+                  "moduleName": "./node_modules/workbox-precaching/cleanupOutdatedCaches.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "workbox-core/_private/cacheNames.js",
+                  "loc": "8:0-65"
                 },
                 {
                   "moduleId": null,
@@ -24543,9 +24543,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheStrategy.js",
+              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-precaching/PrecacheStrategy.js",
+              "issuerName": "./node_modules/workbox-core/_private.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -24554,18 +24554,18 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                  "name": "./node_modules/workbox-precaching/index.mjs"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                  "name": "./node_modules/workbox-core/index.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                  "name": "./node_modules/workbox-precaching/index.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                  "name": "./node_modules/workbox-core/index.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheStrategy.js",
-                  "name": "./node_modules/workbox-precaching/PrecacheStrategy.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
+                  "name": "./node_modules/workbox-core/_private.js"
                 }
               ],
               "failed": false,
@@ -24620,18 +24620,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
-                  "module": "./node_modules/workbox-expiration/ExpirationPlugin.js",
-                  "moduleName": "./node_modules/workbox-expiration/ExpirationPlugin.js",
+                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-strategies\\Strategy.js",
+                  "module": "./node_modules/workbox-strategies/Strategy.js",
+                  "moduleName": "./node_modules/workbox-strategies/Strategy.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/getFriendlyURL.js",
                   "loc": "35:0-73"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-strategies\\Strategy.js",
-                  "module": "./node_modules/workbox-strategies/Strategy.js",
-                  "moduleName": "./node_modules/workbox-strategies/Strategy.js",
+                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-expiration\\ExpirationPlugin.js",
+                  "module": "./node_modules/workbox-expiration/ExpirationPlugin.js",
+                  "moduleName": "./node_modules/workbox-expiration/ExpirationPlugin.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "workbox-core/_private/getFriendlyURL.js",
                   "loc": "35:0-73"
@@ -24913,9 +24913,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
+              "issuer": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
               "issuerId": null,
-              "issuerName": "./node_modules/workbox-precaching/PrecacheController.js",
+              "issuerName": "./node_modules/workbox-core/_private.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -24924,18 +24924,18 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                  "name": "./node_modules/workbox-precaching/index.mjs"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                  "name": "./node_modules/workbox-core/index.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                  "name": "./node_modules/workbox-precaching/index.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                  "name": "./node_modules/workbox-core/index.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
-                  "name": "./node_modules/workbox-precaching/PrecacheController.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
+                  "name": "./node_modules/workbox-core/_private.js"
                 }
               ],
               "failed": false,
@@ -25370,9 +25370,9 @@
               "reasons": [
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\addRoute.js",
-                  "module": "./node_modules/workbox-precaching/addRoute.js",
-                  "moduleName": "./node_modules/workbox-precaching/addRoute.js",
+                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\createHandlerBoundToURL.js",
+                  "module": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
+                  "moduleName": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./utils/getOrCreatePrecacheController.js",
                   "loc": "8:0-89"
@@ -25382,15 +25382,6 @@
                   "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\getCacheKeyForURL.js",
                   "module": "./node_modules/workbox-precaching/getCacheKeyForURL.js",
                   "moduleName": "./node_modules/workbox-precaching/getCacheKeyForURL.js",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "./utils/getOrCreatePrecacheController.js",
-                  "loc": "8:0-89"
-                },
-                {
-                  "moduleId": null,
-                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\createHandlerBoundToURL.js",
-                  "module": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
-                  "moduleName": "./node_modules/workbox-precaching/createHandlerBoundToURL.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./utils/getOrCreatePrecacheController.js",
                   "loc": "8:0-89"
@@ -25409,6 +25400,15 @@
                   "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\precache.js",
                   "module": "./node_modules/workbox-precaching/precache.js",
                   "moduleName": "./node_modules/workbox-precaching/precache.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "./utils/getOrCreatePrecacheController.js",
+                  "loc": "8:0-89"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\addRoute.js",
+                  "module": "./node_modules/workbox-precaching/addRoute.js",
+                  "moduleName": "./node_modules/workbox-precaching/addRoute.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./utils/getOrCreatePrecacheController.js",
                   "loc": "8:0-89"
@@ -26221,18 +26221,18 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                  "name": "./node_modules/workbox-precaching/index.mjs"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                  "name": "./node_modules/workbox-core/index.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                  "name": "./node_modules/workbox-precaching/index.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                  "name": "./node_modules/workbox-core/index.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
-                  "name": "./node_modules/workbox-precaching/PrecacheController.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
+                  "name": "./node_modules/workbox-core/_private.js"
                 },
                 {
                   "id": null,
@@ -26371,18 +26371,18 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.mjs",
-                  "name": "./node_modules/workbox-precaching/index.mjs"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.mjs",
+                  "name": "./node_modules/workbox-core/index.mjs"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\index.js",
-                  "name": "./node_modules/workbox-precaching/index.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\index.js",
+                  "name": "./node_modules/workbox-core/index.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-precaching\\PrecacheController.js",
-                  "name": "./node_modules/workbox-precaching/PrecacheController.js"
+                  "identifier": "C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\RIFKY\\Desktop\\Submission 3\\node_modules\\workbox-core\\_private.js",
+                  "name": "./node_modules/workbox-core/_private.js"
                 },
                 {
                   "id": null,
